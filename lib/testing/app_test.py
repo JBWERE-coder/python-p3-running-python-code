@@ -17,7 +17,7 @@ class TestAppPy:
 
     def test_app_py_runs(self):
         '''
-        is executable
+        is executablec
         '''
         runpy.run_path("lib/app.py")
 
